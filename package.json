@@ -1,0 +1,26 @@
+{
+  "name": "Learn-NextJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fefranco97/Learn-NextJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fefranco97/Learn-NextJs/issues"
+  },
+  "homepage": "https://github.com/fefranco97/Learn-NextJs#readme",
+  "dependencies": {
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
